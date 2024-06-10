@@ -5,6 +5,8 @@
   </a>
 </p>
 
+Proof of concept for subdomain takeover @registry.semgrep.dev -Gerardo Salazar
+
 Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 We're going to be shipping new examples weekly. Stay tuned!
 
